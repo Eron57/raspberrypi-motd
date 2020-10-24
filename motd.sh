@@ -79,16 +79,21 @@ borderEmptyLine="$borderBar                                                     
 
 # Header
 header="$borderTopLine\n$borderEmptyLine\n"
-header="$header$borderBar$(color $headerLeafColor "          .~~.   .~~.                                                         ")$borderBar\n"
-header="$header$borderBar$(color $headerLeafColor "         '. \ ' ' / .'                                                        ")$borderBar\n"
-header="$header$borderBar$(color $headerRaspberryColor "          .~ .~~~..~.                      _                          _       ")$borderBar\n"
-header="$header$borderBar$(color $headerRaspberryColor "         : .~.'~'.~. :     ___ ___ ___ ___| |_ ___ ___ ___ _ _    ___|_|      ")$borderBar\n"
-header="$header$borderBar$(color $headerRaspberryColor "        ~ (   ) (   ) ~   |  _| .'|_ -| . | . | -_|  _|  _| | |  | . | |      ")$borderBar\n"
-header="$header$borderBar$(color $headerRaspberryColor "       ( : '~'.~.'~' : )  |_| |__,|___|  _|___|___|_| |_| |_  |  |  _|_|      ")$borderBar\n"
-header="$header$borderBar$(color $headerRaspberryColor "        ~ .~ (   ) ~. ~               |_|                 |___|  |_|          ")$borderBar\n"
-header="$header$borderBar$(color $headerRaspberryColor "         (  : '~' :  )                                                        ")$borderBar\n"
-header="$header$borderBar$(color $headerRaspberryColor "          '~ .~~~. ~'                                                         ")$borderBar\n"
-header="$header$borderBar$(color $headerRaspberryColor "              '~'                                                             ")$borderBar"
+header="$header$borderBar$(color $headerRaspberryColor "            ..      ...                      .                                 ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "         :~88888x :8%888x                   @88>             xeee              ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "        8    8888Xf  8888>   .d             %8P             d888R              ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "       X88x. ?8888k  8888X   @8Ne.   .u      .             d8888R              ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "        8888L 8888X  '%88X   %8888:u@88N   .@88u          @ 8888R              ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "        8888X 8888X:xnHH       888I  888.   888E        .P  8888R              ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "          ?8~ 8888X X8888      888I  888I   888E       :F   8888R              ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "              8888> X8888      888I  888I   888E      x8    8888R              ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "        :H8x  8888  X8888    uW888L  888'   888E     d8eeeee88888eer           ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "        8888> 888~  X8888   '*88888Nu88P    888&            8888R              ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "        488/ '8*~    8888!     88888F       R8888           8888R              ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "         ^-==88       88       888 ^         88          8*%%%%%%**~           ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "                               *8E                                             ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "                               '8>                                             ")$borderBar\n"
+header="$header$borderBar$(color $headerRaspberryColor "                                '                                              ")$borderBar"
 
 me=$(whoami)
 
